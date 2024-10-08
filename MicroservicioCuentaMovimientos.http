@@ -1,0 +1,6 @@
+@BackEndNTTData_HostAddress = http://localhost:5100
+
+GET {{BackEndNTTData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
